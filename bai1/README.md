@@ -1,0 +1,3 @@
+## Step 1; BUILD ...
+1. gcc -c ..
+#
